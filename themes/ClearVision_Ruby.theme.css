@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #e62727;
-	--hover-color: #b31e1e;
+	--main-color: #9f0000;
+	--hover-color: #6f0000;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/ruby.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://i.imgur.com/llmn4Ay.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
