@@ -1,6 +1,6 @@
-//META{"name":"ClearVision_Ruby","description":"A raging, red theme with customizable colors & background! Based on Discord Reborn by @Omniscient &DarkMatter by @Hammock. Server: https://discord.me/clearvision","author":"Zerthox","version":"5"}*//{}
-/* "ClearVision - Ruby v5" by @Zerthox */
-/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
+//META{"name":"Red_Frog_Theme","description":"Frogs!","author":"Frog","version":"1"}*//{}
+/* "red - Frog v1" by @Frog */
+/* Based on "frogs! */
 
 /* IMPORT CSS FROM GITHUB */
 @import url(https://zerthox.github.io/ClearVision/css/ClearVision_v5.min.css);
@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #e62727;
-	--hover-color: #b31e1e;
+	--main-color: #3B0404;
+	--hover-color: #6B0101;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/ruby.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://i.imgur.com/14q1srj.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
